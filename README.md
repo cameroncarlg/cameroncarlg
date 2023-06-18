@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-A recent computer science graduate who's passionate about programming/cloud computing! Hoping to get into Cloud Security after my fundamentals are solid!
+A recent computer science graduate who's passionate about software development/cloud computing! Hoping to get into cloud security after my fundamentals are solid!
 
-- 📫 How to reach me:
-- cameroncarlg@gmail.com
-- https://www.linkedin.com/in/cameron-guilbeau-737116265/
+- 📫 I'm currently working on:
+- Building a professional resume website (cloud based)
+- Adding a blog/notes section to said website
+- Earning my AWS Certified Solutions Architect certificate
+- Fully built IaC kubernetes cluster
 
 <!--
 **cameroncarlg/cameroncarlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

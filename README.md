@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+A recent computer science graduate who's passionate about programming/cloud computing! Hoping to get into Cloud Security after my fundamentals are solid!
+
+- 📫 How to reach me:
+- cameroncarlg@gmail.com
+- https://www.linkedin.com/in/cameron-guilbeau-737116265/
+
 <!--
 **cameroncarlg/cameroncarlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

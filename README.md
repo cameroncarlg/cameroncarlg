@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-A recent computer science graduate who's passionate about software development/cloud computing! Hoping to get into cloud security after my fundamentals are solid!
+A recent computer science graduate who's passionate about software development/cloud computing! Hoping to land a Cloud Engineer role at a great company!
 
 - 📫 I'm currently working on:
-- Building a professional resume website (cloud based)
-- Adding a blog/notes section to said website
-- Earning my AWS Certified Solutions Architect certificate
-- Fully built IaC kubernetes cluster
+  - Building a professional resume website (cloud based)
+  - Adding a blog/notes section to said website
+  - Earning my AWS Certified Solutions Architect certificate
+  - Fully built IaC kubernetes cluster
 
 <!--
 **cameroncarlg/cameroncarlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

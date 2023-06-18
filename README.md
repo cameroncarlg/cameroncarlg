@@ -4,9 +4,8 @@ A recent computer science graduate who's passionate about software development/c
 
 - 📫 I'm currently working on:
   - Building a professional resume website (cloud based)
-  - Adding a blog/notes section to said website
   - Earning my AWS Certified Solutions Architect certificate
-  - Fully built IaC kubernetes cluster
+  - Full CI/CD IaC Kubernetes cluster
 
 <!--
 **cameroncarlg/cameroncarlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

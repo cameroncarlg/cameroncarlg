@@ -1,4 +1,4 @@
-### Helloooooooo! 👋
+### Hi there! 👋
 
 A recent computer science graduate who's passionate about software development/cloud computing! Hoping to land a Software/Cloud Engineer role at a great company!
 

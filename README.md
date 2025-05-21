@@ -1,12 +1,5 @@
 ### Hi there! 👋
 
-A recent computer science graduate who's passionate about software development/cloud computing! Hoping to land a Software/Cloud Engineer role at a great company!
-
-- 📫 I'm currently working on:
-  - Building a professional resume website (cloud based)
-  - Earning my AWS Certified Solutions Architect certificate
-  - Full CI/CD IaC Kubernetes cluster
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=cameroncarlg&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameroncarlg&layout=compact" />
